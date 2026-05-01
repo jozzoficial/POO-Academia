@@ -1,0 +1,14 @@
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\bin\Debug\net10.0\Exercicio_6.1.exe
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\bin\Debug\net10.0\Exercicio_6.1.deps.json
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\bin\Debug\net10.0\Exercicio_6.1.runtimeconfig.json
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\bin\Debug\net10.0\Exercicio_6.1.dll
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\bin\Debug\net10.0\Exercicio_6.1.pdb
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.GeneratedMSBuildEditorConfig.editorconfig
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.AssemblyInfoInputs.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.AssemblyInfo.cs
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.csproj.CoreCompileInputs.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.dll
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\refint\Exercicio_6.1.dll
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.pdb
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\Exercicio_6.1.genruntimeconfig.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETOS II\CODIGOS\Exercicio_6.1\obj\Debug\net10.0\ref\Exercicio_6.1.dll
