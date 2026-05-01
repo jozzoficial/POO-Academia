@@ -42,7 +42,14 @@ namespace Exercicio_6._1
         }
 
 
-        public Veiculo() { }
+        public Veiculo()
+        {
+            matricula = "Desconhecido";
+            marca = "Desconhecido";
+            modelo = "Desconhecido";
+            anoFabricacao = 0;
+            quilometragem = 0.0;
+        }
 
         public Veiculo(string matricula, string marca, string modelo, int ano, double km)
         {
